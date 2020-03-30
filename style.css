@@ -20,3 +20,10 @@ footer{
 body {
     background: lightgrey;
 }
+table {
+    width: 100%;
+}
+th,
+td {
+    border: 1px solid whitesmoke;
+}

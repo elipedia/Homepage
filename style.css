@@ -12,6 +12,8 @@ h2{
 p {
     color: blue;
     font-family: 'Gotu', sans-serif;
+    padding: 20px;
+    text-align: justify;
 }
 footer{
     color: darkcyan;
@@ -26,4 +28,15 @@ table {
 th,
 td {
     border: 1px solid whitesmoke;
+}
+a{
+    color: darkmagenta;
+    font-size: 15px;
+    text-decoration: none;
+}
+main{
+    background: wheat;
+    max-width: 700px;
+    margin: auto;
+    padding: 10px;
 }

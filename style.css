@@ -21,6 +21,8 @@ footer{
 }
 body {
     background: lightgrey;
+    margin: 0 auto;
+    padding: 0%;
 }
 table {
     width: 100%;
@@ -49,4 +51,10 @@ main{
     bottom: 20px;
     right: 20px;
     padding: 5px;
+}
+.head{
+    position: fixed;
+    background: wheat;
+    width: 100%;
+
 }

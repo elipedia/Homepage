@@ -41,6 +41,7 @@ main{
     padding: 10px;
 }
 .footer_top {
+    position: fixed;
     background: wheat;
     color: tomato;
     text-decoration: none;

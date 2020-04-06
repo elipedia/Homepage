@@ -40,3 +40,12 @@ main{
     margin: auto;
     padding: 10px;
 }
+.footer_top {
+    background: wheat;
+    color: tomato;
+    text-decoration: none;
+    font-size: 15px;
+    bottom: 20px;
+    right: 20px;
+    padding: 5px;
+}
